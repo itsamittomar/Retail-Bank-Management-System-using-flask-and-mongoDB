@@ -1,6 +1,7 @@
 # Retail-Bank-Management-System-using-flask-and-mongoDB
 
 This is the complete project on banking management
+
 #Customer
 1. you can create a customer
 2. You can create account for customer for any type i.e; savings,current
@@ -16,4 +17,11 @@ This is the complete project on banking management
 5. can provide the account statement to customer
 
 
+#Form
+all the form are designed using the Flaskform 
+
+
 to run this project u need to run these commands
+1. pip install -r requirements.txt
+2. flask run
+
