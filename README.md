@@ -1,5 +1,5 @@
 # Retail-Bank-Management-System-using-flask-and-mongoDB
-
+#mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false
 This is the complete project on banking management
 
 #Customer
